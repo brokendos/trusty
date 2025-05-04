@@ -1,0 +1,36 @@
+header {
+  background-color: #000000;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+}
+
+header img {
+  width: 100px;
+  height: 100px;
+  justify-content: flex;
+}
+
+header h1 {
+  display: inline;
+}
+
+body main {
+  background: #ffffff;
+  padding: 0 24px;
+  color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+}
+
+.new {
+  background-color: black;
+  width: 400px;
+  height: 400px;
+  color: white;
+  padding: 10px;
+  align-items: center;
+}
+
+h1 {
+  margin: 0;
+}
