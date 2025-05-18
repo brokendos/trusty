@@ -25,12 +25,16 @@ body main {
 .new {
   background-color: black;
   width: 400px;
-  height: 400px;
   color: white;
   padding: 10px;
   align-items: center;
+  margin: 5px;
 }
 
 h1 {
   margin: 0;
+}
+
+.news {
+    display: flex;
 }
